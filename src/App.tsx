@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import MatchSetup from "./components/MatchSetup";
 import ScoreBoard from "./components/ScoreBoard";
 
