@@ -23,6 +23,8 @@ GullyScore is a modern, minimalist web app that lets anyone easily score casual 
 - 🔄 React Hooks (`useState`, `useEffect`)
 - 📁 Vite for fast dev builds
 
+## Check it here: https://gullyscore.vercel.app/
+
 ## 📦 Installation
 
 ```bash
